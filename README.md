@@ -2,12 +2,12 @@
 DSP with python
 
 Enable I2S on raspberry pi and change output device
-https://www.mathworks.com/help/supportpkg/raspberrypi/ug/play-high-quality-audio-from-raspberry-pi-using-i2s-based-dac.html
-https://github.com/respeaker/seeed-voicecard
-https://github.com/respeaker/4mics_hat
+1. https://www.mathworks.com/help/supportpkg/raspberrypi/ug/play-high-quality-audio-from-raspberry-pi-using-i2s-based-dac.html
+2. https://github.com/respeaker/seeed-voicecard
+3. https://github.com/respeaker/4mics_hat
 
-https://makersportal.com/blog/audio-processing-with-the-quadmic-4-microphone-array-on-the-raspberry-pi?rq=quadmic
-https://wiki.seeedstudio.com/ReSpeaker_4-Mic_Linear_Array_Kit_for_Raspberry_Pi/
+4. https://makersportal.com/blog/audio-processing-with-the-quadmic-4-microphone-array-on-the-raspberry-pi?rq=quadmic
+5. https://wiki.seeedstudio.com/ReSpeaker_4-Mic_Linear_Array_Kit_for_Raspberry_Pi/
 
 Enable I2S Drivers on Raspberry Pi
     In the terminal, type sudo nano /boot/config.txt to edit the config.txt file.
